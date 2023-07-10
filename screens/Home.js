@@ -44,5 +44,6 @@ const styles = StyleSheet.create({
   container: {
     backgroundColor: '#fff',
     minHeight: '100%',
+    overflow: 'scroll',
   },
 });
